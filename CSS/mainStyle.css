@@ -11,7 +11,7 @@ body {
 
 header {
   box-sizing: border-box;
-  background-image: url("/IMAGES/headerImageBlur.jpg");
+  background-image: url("RGR2/IMAGES/headerImageBlur.jpg");
   background-attachment: fixed;
   background-size: cover;
   min-height: 100vh;
@@ -87,7 +87,7 @@ header h1 {
 }
 
 footer {
-  background-image: url("/IMAGES/bgnd3.jpg");
+  background-image: url("RGR2/IMAGES/bgnd3.jpg");
   background-size: cover;
   width: 100%;
   min-height: 450px;
@@ -182,7 +182,7 @@ footer .wrapper .footer .social_container .social img:first-child {
 .author_style {
   box-sizing: border-box;
   position: relative;
-  background-image: url("/IMAGES/styleImage.jpg");
+  background-image: url("RGR2/IMAGES/styleImage.jpg");
   background-size: cover;
   background-attachment: fixed;
   background-size: 80%;
