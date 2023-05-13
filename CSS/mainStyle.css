@@ -11,7 +11,7 @@ body {
 
 header {
   box-sizing: border-box;
-  background-image: url("RGR2/IMAGES/headerImageBlur.jpg");
+  background-image: url("IMAGES/headerImageBlur.jpg");
   background-attachment: fixed;
   background-size: cover;
   min-height: 100vh;
